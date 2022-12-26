@@ -1,5 +1,5 @@
 import React from 'react'
-import SavedShows from '../components/SavedShows';
+
 
 
 const Account = () => {
@@ -18,7 +18,7 @@ const Account = () => {
 
         </div>
       </div>
-      <SavedShows/>
+      
     </>
   );
 }
