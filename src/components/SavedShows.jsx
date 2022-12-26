@@ -21,12 +21,12 @@ const SavedShows = () => {
    };
 
 
-     useEffect(() => {
-      onSnapshot(doc(db, "users", `${user?.email}`), (doc) => {
-         setMovies(doc.data()?.savedShows)
-       }
-      )
-    }, [user?.email])
+    //  useEffect(() => {
+    //   onSnapshot(doc(db, "users", `${user?.email}`), (doc) => {
+    //      setMovies(doc.data()?.savedShows)
+    //    }
+    //   )
+    // }, [user?.email])
 
 
   return (

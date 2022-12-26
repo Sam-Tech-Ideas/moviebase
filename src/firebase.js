@@ -14,7 +14,8 @@ const firebaseConfig = {
   projectId: "moviepro-ff70e",
   storageBucket: "moviepro-ff70e.appspot.com",
   messagingSenderId: "146810860448",
-  appId: "1:146810860448:web:96bc1600411f20f8036ac5",
+  appId: "1:146810860448:web:e8ed95a48573a4ac036ac5"
+
 };
 
 // Initialize Firebase
