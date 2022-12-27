@@ -9,13 +9,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAmC-zDdBAcUmzSzREa3VzlgitA2vdQYPA",
-  authDomain: "moviepro-ff70e.firebaseapp.com",
-  projectId: "moviepro-ff70e",
-  storageBucket: "moviepro-ff70e.appspot.com",
-  messagingSenderId: "146810860448",
-  appId: "1:146810860448:web:e8ed95a48573a4ac036ac5"
-
+  apiKey: "AIzaSyB5_slWvhwIMi01muvjbD7Way41bKgDrN8",
+  authDomain: "movieflix-1f340.firebaseapp.com",
+  projectId: "movieflix-1f340",
+  storageBucket: "movieflix-1f340.appspot.com",
+  messagingSenderId: "588944682009",
+  appId: "1:588944682009:web:fe2bd5e360345e3a07ce88",
 };
 
 // Initialize Firebase
